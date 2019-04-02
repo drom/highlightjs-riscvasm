@@ -1,0 +1,19 @@
+{
+  "name": "highlightjs-riscvasm",
+  "version": "0.1.0",
+  "description": "RISC-V Assembly Language highlight.js syntax definition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/highlightjs-riscvasm.git"
+  },
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/highlightjs-riscvasm/issues"
+  },
+  "homepage": "https://github.com/drom/highlightjs-riscvasm#readme"
+}
